@@ -1,3 +1,4 @@
+# python examples/command-line/file_2.py
 # When we import file_1 the code in it will be executed
 import file_1
 

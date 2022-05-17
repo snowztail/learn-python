@@ -1,3 +1,4 @@
+# python examples/arguments/addition.py 1 2 3
 import sys
 
 # Print out the name of the file being run and the command line arguments

@@ -1,3 +1,4 @@
+# python examples/redirection/redirection.py
 for i in range(10):
     # The output of this print statement may be redirected from stdout
     print(i)

@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/home/snowztail/Repositories/python/managing-and-running-python-effectively/exercises/asserts-and-redirection/file1.py", line 8, in <module>
+    my_function(-1)
+  File "/home/snowztail/Repositories/python/managing-and-running-python-effectively/exercises/asserts-and-redirection/file1.py", line 2, in my_function
+    assert x > 0
+AssertionError

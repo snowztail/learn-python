@@ -1,3 +1,4 @@
+# python examples/command-line/file_1.py
 # Print the name associated with this file
 print("Name of file_1: " + __name__)
 
